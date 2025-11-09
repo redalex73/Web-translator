@@ -17,6 +17,6 @@ Ingresa la URL de una página web, selecciona el idioma al que deseas traducirla
 ## 🧰 Tecnologías usadas
 
 - Python  
-- Librerías de traducción (por ejemplo: `googletrans`, `deep_translator` u otras)  
+- Librerías de traducción: `googletrans` 
 - `Tkinter` para la interfaz gráfica (GUI)  
 - Scripts de procesamiento de texto y extracción de contenido web (`translator.py`, `main.py`, `gui.py`)
